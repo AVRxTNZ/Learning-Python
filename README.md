@@ -21,17 +21,17 @@ Before you start, There are several things that must be prepared to make coding 
 - After that, check again on cmd
 
 # Using Python on Visual Studio Code
-* Install The VS Code
+Install The VS Code
 - Download Visual Studio Code of official website on https://code.visualstudio.com
 - Open and install the VS Code
 - Follow the step by step of the progress Installing
 - After finished installing, open the VS Code
 
-* Install Python on VS Code
+Install Python on VS Code
 - On VS Code, go to "Extention Marketplace" (CTRL + SHIFT + X)  
 - Input keyword "Python" on searching bar
 - Click Install on "Python" Extension by Microsoft
 
-* Config the Python Extension
+Config the Python Extension
 - Go to "File > Preference > Setting"
 - Select Workplace Tab and click "Open Settings as JSON" on top right corner
