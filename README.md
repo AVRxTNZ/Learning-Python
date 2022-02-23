@@ -35,3 +35,15 @@ Install Python on VS Code
 Config the Python Extension
 - Go to "File > Preference > Setting"
 - Select Workplace Tab and click "Open Settings as JSON" on top right corner
+
+# Virtual Environment Python (Windows)
+Install Virtual Environment
+- Open cmd and input "pip install virtualenv"
+- After that go to your folder work with cmd
+- Write "virtualenv env"
+- Now your virtual environment is have installed
+
+Activate Virtual Environment
+- On cmd, go to your folder work and enter to venv and scripts
+- for activate the virtual environment, write "active.bat"
+- Now you are in virtual environment
